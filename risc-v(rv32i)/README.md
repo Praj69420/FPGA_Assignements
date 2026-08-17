@@ -124,8 +124,11 @@ x10 = 42
 RAM[128] = 25
 TEST PASSED
 ```
+<image src="output.png">
+<image src="waveform_vcd.png">
 
+Prajwal Kandel
 
-Prajwal Kandel 
 PUL079BCT060 
+
 Advanced FPGA Design Lab
